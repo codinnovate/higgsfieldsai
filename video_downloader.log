@@ -595,3 +595,168 @@
 2025-09-21 22:01:10,287 - INFO - ✅ Downloaded: f8d64eef-a473-4b51-9bab-7ebbcb8bb4bd.mp4
 2025-09-21 22:01:11,293 - INFO - Downloading: https://static.higgsfield.ai/942c77b6-b0b2-45a7-9e69-8811b297a158.mp4
 2025-09-21 22:01:12,411 - INFO - ✅ Downloaded: 942c77b6-b0b2-45a7-9e69-8811b297a158.mp4
+2025-09-21 22:05:58,418 - INFO - Processing category: Action Movements
+2025-09-21 22:05:58,420 - INFO - Processing subcategory: Fast Sprint
+2025-09-21 22:05:58,422 - INFO - Found 11 videos in videos.json
+2025-09-21 22:05:58,422 - INFO - Downloading: https://cdn.higgsfield.ai/minimax_hailuo_motion/6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:05:59,815 - INFO - Progress: 80.8%
+2025-09-21 22:05:59,841 - INFO - ✅ Downloaded: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,846 - INFO - ⏭️  Skipping existing: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,846 - INFO - ⏭️  Skipping existing: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,846 - INFO - ⏭️  Skipping existing: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,846 - INFO - ⏭️  Skipping existing: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,846 - INFO - ⏭️  Skipping existing: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,846 - INFO - ⏭️  Skipping existing: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,846 - INFO - ⏭️  Skipping existing: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,846 - INFO - ⏭️  Skipping existing: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,846 - INFO - ⏭️  Skipping existing: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,846 - INFO - ⏭️  Skipping existing: 6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+2025-09-21 22:06:00,848 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Fast Sprint/videos.json with local file paths
+2025-09-21 22:06:00,848 - INFO - Subcategory Fast Sprint completed: 1 downloaded, 0 failed
+2025-09-21 22:06:00,848 - INFO - Processing subcategory: Helicopter Escape
+2025-09-21 22:06:00,849 - INFO - Found 8 videos in videos.json
+2025-09-21 22:06:00,849 - INFO - Downloading: https://cdn.higgsfield.ai/minimax_hailuo_motion/3944498e-c313-4b22-b09b-fd695b071cc9.mp4
+2025-09-21 22:06:01,570 - INFO - ✅ Downloaded: 3944498e-c313-4b22-b09b-fd695b071cc9.mp4
+2025-09-21 22:06:02,574 - INFO - ⏭️  Skipping existing: 3944498e-c313-4b22-b09b-fd695b071cc9.mp4
+2025-09-21 22:06:02,574 - INFO - ⏭️  Skipping existing: 3944498e-c313-4b22-b09b-fd695b071cc9.mp4
+2025-09-21 22:06:02,574 - INFO - ⏭️  Skipping existing: 3944498e-c313-4b22-b09b-fd695b071cc9.mp4
+2025-09-21 22:06:02,574 - INFO - ⏭️  Skipping existing: 3944498e-c313-4b22-b09b-fd695b071cc9.mp4
+2025-09-21 22:06:02,574 - INFO - ⏭️  Skipping existing: 3944498e-c313-4b22-b09b-fd695b071cc9.mp4
+2025-09-21 22:06:02,574 - INFO - ⏭️  Skipping existing: 3944498e-c313-4b22-b09b-fd695b071cc9.mp4
+2025-09-21 22:06:02,574 - INFO - ⏭️  Skipping existing: 3944498e-c313-4b22-b09b-fd695b071cc9.mp4
+2025-09-21 22:06:02,574 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Helicopter Escape/videos.json with local file paths
+2025-09-21 22:06:02,574 - INFO - Subcategory Helicopter Escape completed: 1 downloaded, 0 failed
+2025-09-21 22:06:02,575 - INFO - Processing subcategory: Moonwalk Right
+2025-09-21 22:06:02,575 - INFO - Found 3 videos in videos.json
+2025-09-21 22:06:02,575 - INFO - Downloading: https://static.higgsfield.ai/025b8c80-0671-43ad-b9ac-f238f0f6baa3.mp4
+2025-09-21 22:06:05,937 - INFO - ✅ Downloaded: 025b8c80-0671-43ad-b9ac-f238f0f6baa3.mp4
+2025-09-21 22:06:06,942 - INFO - Downloading: https://static.higgsfield.ai/e2060b52-56fb-4fb4-889a-0a6b3022aa0e.mp4
+2025-09-21 22:06:07,890 - INFO - ✅ Downloaded: e2060b52-56fb-4fb4-889a-0a6b3022aa0e.mp4
+2025-09-21 22:06:08,895 - INFO - Downloading: https://static.higgsfield.ai/360624f7-e013-4c9f-aac6-d20c82993f64.mp4
+2025-09-21 22:06:09,901 - INFO - ✅ Downloaded: 360624f7-e013-4c9f-aac6-d20c82993f64.mp4
+2025-09-21 22:06:10,907 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Moonwalk Right/videos.json with local file paths
+2025-09-21 22:06:10,907 - INFO - Subcategory Moonwalk Right completed: 3 downloaded, 0 failed
+2025-09-21 22:06:10,907 - INFO - Processing subcategory: Handheld Run
+2025-09-21 22:06:10,909 - INFO - Found 7 videos in videos.json
+2025-09-21 22:06:10,909 - INFO - Downloading: https://cdn.higgsfield.ai/minimax_hailuo_motion/3d356f07-bb95-4bdc-89b3-2d4a16e18cf8.mp4
+2025-09-21 22:06:11,903 - INFO - Progress: 49.6%
+2025-09-21 22:06:12,510 - INFO - Progress: 99.1%
+2025-09-21 22:06:12,511 - INFO - ✅ Downloaded: 3d356f07-bb95-4bdc-89b3-2d4a16e18cf8.mp4
+2025-09-21 22:06:13,516 - INFO - ⏭️  Skipping existing: 3d356f07-bb95-4bdc-89b3-2d4a16e18cf8.mp4
+2025-09-21 22:06:13,516 - INFO - ⏭️  Skipping existing: 3d356f07-bb95-4bdc-89b3-2d4a16e18cf8.mp4
+2025-09-21 22:06:13,516 - INFO - ⏭️  Skipping existing: 3d356f07-bb95-4bdc-89b3-2d4a16e18cf8.mp4
+2025-09-21 22:06:13,517 - INFO - ⏭️  Skipping existing: 3d356f07-bb95-4bdc-89b3-2d4a16e18cf8.mp4
+2025-09-21 22:06:13,517 - INFO - ⏭️  Skipping existing: 3d356f07-bb95-4bdc-89b3-2d4a16e18cf8.mp4
+2025-09-21 22:06:13,517 - INFO - ⏭️  Skipping existing: 3d356f07-bb95-4bdc-89b3-2d4a16e18cf8.mp4
+2025-09-21 22:06:13,519 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Handheld Run/videos.json with local file paths
+2025-09-21 22:06:13,519 - INFO - Subcategory Handheld Run completed: 1 downloaded, 0 failed
+2025-09-21 22:06:13,519 - INFO - Processing subcategory: Basketball Dunks
+2025-09-21 22:06:13,524 - INFO - Found 5 videos in videos.json
+2025-09-21 22:06:13,525 - INFO - Downloading: https://static.higgsfield.ai/a08f2047-76eb-4cd9-9bb6-e903ac9b5773.mp4
+2025-09-21 22:06:14,671 - INFO - ✅ Downloaded: a08f2047-76eb-4cd9-9bb6-e903ac9b5773.mp4
+2025-09-21 22:06:15,676 - INFO - Downloading: https://static.higgsfield.ai/a6c749df-fe1e-4c81-8e13-dfcc73da9f74.mp4
+2025-09-21 22:06:18,051 - INFO - ✅ Downloaded: a6c749df-fe1e-4c81-8e13-dfcc73da9f74.mp4
+2025-09-21 22:06:19,057 - INFO - Downloading: https://static.higgsfield.ai/4ad5b1e9-0546-452e-ba81-724f765e0a2c.mp4
+2025-09-21 22:06:20,040 - INFO - ✅ Downloaded: 4ad5b1e9-0546-452e-ba81-724f765e0a2c.mp4
+2025-09-21 22:06:21,042 - INFO - Downloading: https://static.higgsfield.ai/58684100-eeae-4ac5-bf83-2d80d885eec2.mp4
+2025-09-21 22:06:22,050 - INFO - ✅ Downloaded: 58684100-eeae-4ac5-bf83-2d80d885eec2.mp4
+2025-09-21 22:06:23,051 - INFO - Downloading: https://static.higgsfield.ai/6398510c-afdd-4f0d-aa42-c470a1e76cbd.mp4
+2025-09-21 22:06:25,166 - INFO - ✅ Downloaded: 6398510c-afdd-4f0d-aa42-c470a1e76cbd.mp4
+2025-09-21 22:06:26,170 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Basketball Dunks/videos.json with local file paths
+2025-09-21 22:06:26,170 - INFO - Subcategory Basketball Dunks completed: 5 downloaded, 0 failed
+2025-09-21 22:06:26,170 - INFO - Processing subcategory: Moonwalk Left
+2025-09-21 22:06:26,171 - INFO - Found 3 videos in videos.json
+2025-09-21 22:06:26,171 - INFO - Downloading: https://static.higgsfield.ai/955babde-f854-458c-b5d0-f72ff522e1e1.mp4
+2025-09-21 22:06:27,421 - INFO - ✅ Downloaded: 955babde-f854-458c-b5d0-f72ff522e1e1.mp4
+2025-09-21 22:06:28,426 - INFO - Downloading: https://static.higgsfield.ai/98a8773b-77dc-4d4f-9a90-2ca3c3e3aa32.mp4
+2025-09-21 22:06:31,058 - INFO - ✅ Downloaded: 98a8773b-77dc-4d4f-9a90-2ca3c3e3aa32.mp4
+2025-09-21 22:06:32,063 - INFO - Downloading: https://static.higgsfield.ai/a7275ea7-c881-4a7b-8e90-b599a41a6d86.mp4
+2025-09-21 22:06:33,217 - INFO - ✅ Downloaded: a7275ea7-c881-4a7b-8e90-b599a41a6d86.mp4
+2025-09-21 22:06:34,223 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Moonwalk Left/videos.json with local file paths
+2025-09-21 22:06:34,223 - INFO - Subcategory Moonwalk Left completed: 3 downloaded, 0 failed
+2025-09-21 22:06:34,223 - INFO - Processing subcategory: Drunk Master
+2025-09-21 22:06:34,224 - INFO - Found 5 videos in videos.json
+2025-09-21 22:06:34,224 - INFO - Downloading: https://cdn.higgsfield.ai/minimax_hailuo_motion/1cfbec9e-69bf-417e-924b-58cbea39e684.mp4
+2025-09-21 22:06:34,714 - INFO - Progress: 63.1%
+2025-09-21 22:06:35,349 - INFO - ✅ Downloaded: 1cfbec9e-69bf-417e-924b-58cbea39e684.mp4
+2025-09-21 22:06:36,354 - INFO - ⏭️  Skipping existing: 1cfbec9e-69bf-417e-924b-58cbea39e684.mp4
+2025-09-21 22:06:36,355 - INFO - ⏭️  Skipping existing: 1cfbec9e-69bf-417e-924b-58cbea39e684.mp4
+2025-09-21 22:06:36,355 - INFO - ⏭️  Skipping existing: 1cfbec9e-69bf-417e-924b-58cbea39e684.mp4
+2025-09-21 22:06:36,355 - INFO - ⏭️  Skipping existing: 1cfbec9e-69bf-417e-924b-58cbea39e684.mp4
+2025-09-21 22:06:36,359 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Drunk Master/videos.json with local file paths
+2025-09-21 22:06:36,359 - INFO - Subcategory Drunk Master completed: 1 downloaded, 0 failed
+2025-09-21 22:06:36,359 - INFO - Processing subcategory: Rap Flex
+2025-09-21 22:06:36,363 - INFO - Found 12 videos in videos.json
+2025-09-21 22:06:36,363 - INFO - Downloading: https://static.higgsfield.ai/c48e57bd-41ba-414f-9311-9c56cdba8b45.mp4
+2025-09-21 22:06:37,579 - INFO - ✅ Downloaded: c48e57bd-41ba-414f-9311-9c56cdba8b45.mp4
+2025-09-21 22:06:38,585 - INFO - Downloading: https://static.higgsfield.ai/a3315f66-b0b8-4f6f-813b-b48483a3d582.mp4
+2025-09-21 22:06:39,136 - INFO - ✅ Downloaded: a3315f66-b0b8-4f6f-813b-b48483a3d582.mp4
+2025-09-21 22:06:40,142 - INFO - Downloading: https://static.higgsfield.ai/7fce68dd-9b0f-4c83-9581-0f046ae8ebab.mp4
+2025-09-21 22:06:41,294 - INFO - ✅ Downloaded: 7fce68dd-9b0f-4c83-9581-0f046ae8ebab.mp4
+2025-09-21 22:06:42,300 - INFO - Downloading: https://static.higgsfield.ai/be843dce-72e9-4717-a219-673a32bb53cb.mp4
+2025-09-21 22:06:44,360 - INFO - ✅ Downloaded: be843dce-72e9-4717-a219-673a32bb53cb.mp4
+2025-09-21 22:06:45,365 - INFO - Downloading: https://static.higgsfield.ai/1a46c718-a2e0-4f21-9726-b12e35f55723.mp4
+2025-09-21 22:06:47,746 - INFO - ✅ Downloaded: 1a46c718-a2e0-4f21-9726-b12e35f55723.mp4
+2025-09-21 22:06:48,751 - INFO - Downloading: https://static.higgsfield.ai/f82117ab-bb4e-4a90-b427-9dfc859de188.mp4
+2025-09-21 22:06:49,414 - INFO - ✅ Downloaded: f82117ab-bb4e-4a90-b427-9dfc859de188.mp4
+2025-09-21 22:06:50,420 - INFO - Downloading: https://static.higgsfield.ai/32ea2ee6-f22a-494d-a696-277c87014ad9.mp4
+2025-09-21 22:06:52,014 - INFO - ✅ Downloaded: 32ea2ee6-f22a-494d-a696-277c87014ad9.mp4
+2025-09-21 22:06:53,014 - INFO - Downloading: https://static.higgsfield.ai/7e2342d3-600a-4000-bee7-a36fac8e909c.mp4
+2025-09-21 22:06:54,061 - INFO - ✅ Downloaded: 7e2342d3-600a-4000-bee7-a36fac8e909c.mp4
+2025-09-21 22:06:55,065 - INFO - Downloading: https://static.higgsfield.ai/d6065663-49a1-4294-b3ce-928e64eae25e.mp4
+2025-09-21 22:06:56,103 - INFO - ✅ Downloaded: d6065663-49a1-4294-b3ce-928e64eae25e.mp4
+2025-09-21 22:06:57,109 - INFO - Downloading: https://static.higgsfield.ai/a021c3a1-ccd2-4b79-a9ab-e1e80a98cac1.mp4
+2025-09-21 22:06:58,076 - INFO - ✅ Downloaded: a021c3a1-ccd2-4b79-a9ab-e1e80a98cac1.mp4
+2025-09-21 22:06:59,082 - INFO - Downloading: https://static.higgsfield.ai/091f8069-7fa9-4773-b919-3e8a48aa9597.mp4
+2025-09-21 22:06:59,675 - INFO - ✅ Downloaded: 091f8069-7fa9-4773-b919-3e8a48aa9597.mp4
+2025-09-21 22:07:00,680 - INFO - Downloading: https://static.higgsfield.ai/33bf2b00-eb27-4c65-ae4e-54f9f7080bdb.mp4
+2025-09-21 22:07:01,666 - INFO - ✅ Downloaded: 33bf2b00-eb27-4c65-ae4e-54f9f7080bdb.mp4
+2025-09-21 22:07:02,672 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Rap Flex/videos.json with local file paths
+2025-09-21 22:07:02,672 - INFO - Subcategory Rap Flex completed: 12 downloaded, 0 failed
+2025-09-21 22:07:02,672 - INFO - Processing subcategory: Action Run
+2025-09-21 22:07:02,673 - INFO - Found 12 videos in videos.json
+2025-09-21 22:07:02,673 - INFO - Downloading: https://static.higgsfield.ai/39c51109-93e4-4a3d-89b2-b140e342b9cf.mp4
+2025-09-21 22:07:03,185 - INFO - ✅ Downloaded: 39c51109-93e4-4a3d-89b2-b140e342b9cf.mp4
+2025-09-21 22:07:04,190 - INFO - Downloading: https://static.higgsfield.ai/ece85902-9751-4b8f-a352-c149842bf3ed.mp4
+2025-09-21 22:07:04,935 - INFO - ✅ Downloaded: ece85902-9751-4b8f-a352-c149842bf3ed.mp4
+2025-09-21 22:07:05,940 - INFO - Downloading: https://static.higgsfield.ai/f69e4a73-fc92-4717-a98b-9057e098e9c0.mp4
+2025-09-21 22:07:07,284 - INFO - ✅ Downloaded: f69e4a73-fc92-4717-a98b-9057e098e9c0.mp4
+2025-09-21 22:07:08,286 - INFO - Downloading: https://static.higgsfield.ai/d3f72dd0-5613-47f7-96df-0d9f8b2ed66f.mp4
+2025-09-21 22:07:09,230 - INFO - ✅ Downloaded: d3f72dd0-5613-47f7-96df-0d9f8b2ed66f.mp4
+2025-09-21 22:07:10,234 - INFO - Downloading: https://static.higgsfield.ai/9fb59e0d-6f30-440c-8d60-482569c20ead.mp4
+2025-09-21 22:07:11,857 - INFO - ✅ Downloaded: 9fb59e0d-6f30-440c-8d60-482569c20ead.mp4
+2025-09-21 22:07:12,862 - INFO - Downloading: https://static.higgsfield.ai/40b039e5-27b6-49e6-a974-e83fe06bc2b5.mp4
+2025-09-21 22:07:13,415 - INFO - ✅ Downloaded: 40b039e5-27b6-49e6-a974-e83fe06bc2b5.mp4
+2025-09-21 22:07:14,420 - INFO - Downloading: https://static.higgsfield.ai/8e5fcfb8-e15f-481a-8809-8acaf3bf22fe.mp4
+2025-09-21 22:07:15,385 - INFO - ✅ Downloaded: 8e5fcfb8-e15f-481a-8809-8acaf3bf22fe.mp4
+2025-09-21 22:07:16,387 - INFO - Downloading: https://static.higgsfield.ai/db080845-65c3-4541-a273-72dd91d6c6db.mp4
+2025-09-21 22:07:17,528 - INFO - ✅ Downloaded: db080845-65c3-4541-a273-72dd91d6c6db.mp4
+2025-09-21 22:07:18,532 - INFO - Downloading: https://static.higgsfield.ai/731789a0-57f4-4f02-8949-ff7a14ddc49d.mp4
+2025-09-21 22:07:19,462 - INFO - ✅ Downloaded: 731789a0-57f4-4f02-8949-ff7a14ddc49d.mp4
+2025-09-21 22:07:20,468 - INFO - Downloading: https://static.higgsfield.ai/44de5b32-ced1-498d-8b7e-611b1af5aeed.mp4
+2025-09-21 22:07:21,501 - INFO - ✅ Downloaded: 44de5b32-ced1-498d-8b7e-611b1af5aeed.mp4
+2025-09-21 22:07:22,502 - INFO - Downloading: https://static.higgsfield.ai/d94bd631-8467-4f6f-ac98-b8f41445cae1.mp4
+2025-09-21 22:07:23,220 - INFO - ✅ Downloaded: d94bd631-8467-4f6f-ac98-b8f41445cae1.mp4
+2025-09-21 22:07:24,227 - INFO - Downloading: https://static.higgsfield.ai/ccc6a8b4-3c7a-4331-ac60-075cb0704b96.mp4
+2025-09-21 22:07:25,279 - INFO - ✅ Downloaded: ccc6a8b4-3c7a-4331-ac60-075cb0704b96.mp4
+2025-09-21 22:07:26,281 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Action Run/videos.json with local file paths
+2025-09-21 22:07:26,281 - INFO - Subcategory Action Run completed: 12 downloaded, 0 failed
+2025-09-21 22:07:26,281 - INFO - Category Action Movements processing completed
+2025-09-21 22:07:51,304 - INFO - Processing subcategory: Dolly In
+2025-09-21 22:07:51,305 - INFO - Found 7 videos in videos.json
+2025-09-21 22:07:51,305 - INFO - Downloading: https://static.higgsfield.ai/3231174f-61a3-4218-b6a9-b2d863507d48.mp4
+2025-09-21 22:07:52,615 - INFO - ✅ Downloaded: 3231174f-61a3-4218-b6a9-b2d863507d48.mp4
+2025-09-21 22:07:53,621 - INFO - Downloading: https://static.higgsfield.ai/12c7d2f7-c95f-43ed-b159-cc74ee25a1ba.mp4
+2025-09-21 22:07:54,576 - INFO - ✅ Downloaded: 12c7d2f7-c95f-43ed-b159-cc74ee25a1ba.mp4
+2025-09-21 22:07:55,581 - INFO - Downloading: https://static.higgsfield.ai/1c01e3e6-0731-4c02-a3dd-dab870d54adb.mp4
+2025-09-21 22:07:56,419 - INFO - ✅ Downloaded: 1c01e3e6-0731-4c02-a3dd-dab870d54adb.mp4
+2025-09-21 22:07:57,424 - INFO - Downloading: https://static.higgsfield.ai/262b6919-5b32-4cf4-92c9-34d7a2eb7f69.mp4
+2025-09-21 22:07:57,843 - INFO - ✅ Downloaded: 262b6919-5b32-4cf4-92c9-34d7a2eb7f69.mp4
+2025-09-21 22:07:58,848 - INFO - Downloading: https://static.higgsfield.ai/88fd0e5e-2e8d-4bb8-9456-a2f51e6243e6.mp4
+2025-09-21 22:07:59,726 - INFO - ✅ Downloaded: 88fd0e5e-2e8d-4bb8-9456-a2f51e6243e6.mp4
+2025-09-21 22:08:00,732 - INFO - Downloading: https://static.higgsfield.ai/5eb4d2a3-ec59-447b-a107-2c09deb5a94d.mp4
+2025-09-21 22:08:01,621 - INFO - ✅ Downloaded: 5eb4d2a3-ec59-447b-a107-2c09deb5a94d.mp4
+2025-09-21 22:08:02,623 - INFO - Downloading: https://static.higgsfield.ai/fa658788-d7d1-442d-9afb-ffd3222bfad0.mp4
+2025-09-21 22:08:03,515 - INFO - ✅ Downloaded: fa658788-d7d1-442d-9afb-ffd3222bfad0.mp4
+2025-09-21 22:08:04,520 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Camera Controls/Dolly In/videos.json with local file paths
+2025-09-21 22:08:04,520 - INFO - Subcategory Dolly In completed: 7 downloaded, 0 failed
