@@ -1,0 +1,253 @@
+{
+  "category_name": "Camera Controls",
+  "sub_categories": [
+    {
+      "name": "General",
+      "link": "https://higgsfield.ai/motion/d2389a9a-91c2-4276-bc9c-c9e35e8fb85a"
+    },
+    {
+      "name": "Bullet Time",
+      "link": "https://higgsfield.ai/motion/9312c53a-f191-4aab-94fb-6b1dbdfdc946"
+    },
+    {
+      "name": "Aerial Pullback",
+      "link": "https://higgsfield.ai/motion/a0bfa1b6-2dc7-4bbe-889f-fc04c27288ba"
+    },
+    {
+      "name": "Arc Left",
+      "link": "https://higgsfield.ai/motion/2a5d8f86-aef3-4b34-b5ee-fb2020daa131"
+    },
+    {
+      "name": "BTS",
+      "link": "https://higgsfield.ai/motion/b779cfda-9624-4f61-80bc-f5d0461f3959"
+    },
+    {
+      "name": "Buckle Up",
+      "link": "https://higgsfield.ai/motion/4ef72175-227a-418b-923d-2831dcdf7d4f"
+    },
+    {
+      "name": "Car Chasing",
+      "link": "https://higgsfield.ai/motion/a76f2e99-0a41-4fdf-934d-9c95b0ee85bf"
+    },
+    {
+      "name": "Car Grip",
+      "link": "https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0"
+    },
+    {
+      "name": "Crane Down",
+      "link": "https://higgsfield.ai/motion/494db3c2-2297-4cf7-bef7-cba0cebe73ee"
+    },
+    {
+      "name": "Crane Over The Head",
+      "link": "https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7"
+    },
+    {
+      "name": "Crane Up",
+      "link": "https://higgsfield.ai/motion/45d7f47f-2c7b-4c5e-84b7-943758a39dcc"
+    },
+    {
+      "name": "Crash Zoom In",
+      "link": "https://higgsfield.ai/motion/a2dddb76-03fa-429e-9905-577bffdf9d38"
+    },
+    {
+      "name": "Crash Zoom Out",
+      "link": "https://higgsfield.ai/motion/3972c090-a448-4fd4-b8f0-cb71b4b523ee"
+    },
+    {
+      "name": "Dolly In",
+      "link": "https://higgsfield.ai/motion/8d582076-10e2-40f7-bbef-6384532147c2"
+    },
+    {
+      "name": "Dolly Left",
+      "link": "https://higgsfield.ai/motion/b03fa9e3-8e69-4fa2-bcc2-b18e362f9fba"
+    },
+    {
+      "name": "Dolly Out",
+      "link": "https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17"
+    },
+    {
+      "name": "Dolly Right",
+      "link": "https://higgsfield.ai/motion/22f946c2-ed60-44bf-bca3-2be92c07d261"
+    },
+    {
+      "name": "Dolly Zoom In",
+      "link": "https://higgsfield.ai/motion/114245a3-93fb-434a-9299-44ca9e4656a3"
+    },
+    {
+      "name": "Dolly Zoom Out",
+      "link": "https://higgsfield.ai/motion/e057dbd5-1734-4462-bb4c-7d64fe20795e"
+    },
+    {
+      "name": "Double Dolly",
+      "link": "https://higgsfield.ai/motion/e522bff4-da3b-4f7d-8c6e-f925b60979c5"
+    },
+    {
+      "name": "Dutch Angle",
+      "link": "https://higgsfield.ai/motion/b593944e-ae3e-47ce-8c6d-ea8dd87fe01f"
+    },
+    {
+      "name": "Eating Zoom",
+      "link": "https://higgsfield.ai/motion/f61ad61c-e2fc-4452-bcf2-91499c865241"
+    },
+    {
+      "name": "Fisheye",
+      "link": "https://higgsfield.ai/motion/6c689fc3-e421-4ed5-892c-2092d1c60be0"
+    },
+    {
+      "name": "Flying Cam Transition",
+      "link": "https://higgsfield.ai/motion/e43378b9-b20b-4158-a626-745bbbcacdbd"
+    },
+    {
+      "name": "Focus Change",
+      "link": "https://higgsfield.ai/motion/390e084a-4a80-410b-a808-77411828c61d"
+    },
+    {
+      "name": "FPV Drone",
+      "link": "https://higgsfield.ai/motion/5eb82f94-2b98-4e4a-ab4b-ee6c872fb2c7"
+    },
+    {
+      "name": "Glam",
+      "link": "https://higgsfield.ai/motion/ae4a319d-a06f-4b30-8b67-55a35a22f24a"
+    },
+    {
+      "name": "Handheld",
+      "link": "https://higgsfield.ai/motion/36e6e450-52d9-484f-bfbe-f069e06a1530"
+    },
+    {
+      "name": "Head Tracking",
+      "link": "https://higgsfield.ai/motion/fe520e06-7971-4f28-9e10-e45911c57bb6"
+    },
+    {
+      "name": "Hero Cam",
+      "link": "https://higgsfield.ai/motion/a8c54413-c991-416a-8ac8-32c6a42caa6c"
+    },
+    {
+      "name": "Hyperlapse",
+      "link": "https://higgsfield.ai/motion/f0f07997-34fe-4bef-84c1-ee9d4da94a1a"
+    },
+    {
+      "name": "Incline",
+      "link": "https://higgsfield.ai/motion/b120f292-74e3-4878-817b-626e203f8a92"
+    },
+    {
+      "name": "Jib down",
+      "link": "https://higgsfield.ai/motion/4e2318ed-572e-4d5a-bcf9-7e70e4755a52"
+    },
+    {
+      "name": "Jib up",
+      "link": "https://higgsfield.ai/motion/30a7fe68-0967-419a-b7cb-0d0bed480b09"
+    },
+    {
+      "name": "Lazy Susan",
+      "link": "https://higgsfield.ai/motion/025866ff-677c-4af2-92ef-52d6ec3b035e"
+    },
+    {
+      "name": "Low Shutter",
+      "link": "https://higgsfield.ai/motion/f7949a2f-2bcd-459a-96c0-80eb222abcdc"
+    },
+    {
+      "name": "Mouth In",
+      "link": "https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588"
+    },
+    {
+      "name": "Object POV",
+      "link": "https://higgsfield.ai/motion/ab14b29d-f23e-449e-a40e-ebdbb4f7437a"
+    },
+    {
+      "name": "Overhead",
+      "link": "https://higgsfield.ai/motion/b6395b91-a356-4bc6-9cda-fc2793b3d706"
+    },
+    {
+      "name": "Rapid Zoom In",
+      "link": "https://higgsfield.ai/motion/3dee792a-3fb1-40e5-8f46-3a1db42d64b1"
+    },
+    {
+      "name": "Rapid Zoom Out",
+      "link": "https://higgsfield.ai/motion/222b3cfc-5e24-44ee-b7f5-94deb2d2b514"
+    },
+    {
+      "name": "Road Rush",
+      "link": "https://higgsfield.ai/motion/c9c68a56-1f59-46d9-90f2-ee8535f0511d"
+    },
+    {
+      "name": "Robo Arm",
+      "link": "https://higgsfield.ai/motion/1bd4363a-6e5a-4c57-90a5-30f0733a769b"
+    },
+    {
+      "name": "Snorricam",
+      "link": "https://higgsfield.ai/motion/893cb65f-c528-40aa-83d8-c5aeb2bfe59f"
+    },
+    {
+      "name": "Static",
+      "link": "https://higgsfield.ai/motion/aab8440c-0d65-4554-b88a-7a9a5e084b6e"
+    },
+    {
+      "name": "Super Dolly In",
+      "link": "https://higgsfield.ai/motion/6a6fb1b9-28ea-44c8-9be4-e5d8c6ab1f3a"
+    },
+    {
+      "name": "Super Dolly Out",
+      "link": "https://higgsfield.ai/motion/d66685ce-8c2b-4aeb-8d4a-195d474c7eca"
+    },
+    {
+      "name": "Through Object In",
+      "link": "https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd"
+    },
+    {
+      "name": "Through Object Out",
+      "link": "https://higgsfield.ai/motion/74deef0a-692e-465d-a548-f7bc890cb9c1"
+    },
+    {
+      "name": "Tilt Down",
+      "link": "https://higgsfield.ai/motion/1958a932-8ffb-4f1a-a5cd-480858f6ae84"
+    },
+    {
+      "name": "Tilt up",
+      "link": "https://higgsfield.ai/motion/9f127dad-0db0-4e3d-a440-3cfbffca30b6"
+    },
+    {
+      "name": "Timelapse Glam",
+      "link": "https://higgsfield.ai/motion/4b2db33e-b163-484b-b33a-7b0a04d81ddf"
+    },
+    {
+      "name": "Timelapse Human",
+      "link": "https://higgsfield.ai/motion/b4ba822f-9171-4547-997e-c86de335385e"
+    },
+    {
+      "name": "Timelapse Landscape",
+      "link": "https://higgsfield.ai/motion/d45f0a80-62b8-4651-bd62-0373a09b8f11"
+    },
+    {
+      "name": "Whip Pan",
+      "link": "https://higgsfield.ai/motion/7a144766-cdd2-4b73-8a27-67b35f2d4ba2"
+    },
+    {
+      "name": "Wiggle",
+      "link": "https://higgsfield.ai/motion/cfbe9732-1b5a-4f59-9dbc-801f85f5c702"
+    },
+    {
+      "name": "YoYo Zoom",
+      "link": "https://higgsfield.ai/motion/702c6210-9798-4888-b7c9-e794c8fcaaef"
+    },
+    {
+      "name": "360 Orbit",
+      "link": "https://higgsfield.ai/motion/d7c180bc-793c-4d29-83ba-c2d5e84e53d4"
+    },
+    {
+      "name": "Zoom In",
+      "link": "https://higgsfield.ai/motion/a3a3db5d-d3c5-4d95-b429-235ae3d1ee82"
+    },
+    {
+      "name": "Zoom Out",
+      "link": "https://higgsfield.ai/motion/f9e6792f-b385-4eca-87f6-f439e917a7aa"
+    },
+    {
+      "name": "Arc Right",
+      "link": "https://higgsfield.ai/motion/0bdbf318-f918-4f9b-829a-74cab681d806"
+    },
+    {
+      "name": "3D Rotation",
+      "link": "https://higgsfield.ai/motion/6f06f47e-922e-4660-9fe9-754e4be69696"
+    }
+  ]
+}

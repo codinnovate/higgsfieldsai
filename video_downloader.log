@@ -1,0 +1,597 @@
+2025-09-21 21:58:23,929 - INFO - Starting video download process...
+2025-09-21 21:58:23,930 - INFO - Found 11 categories to process
+2025-09-21 21:58:23,930 - INFO - Processing category: Kling 2.1 Master
+2025-09-21 21:58:23,931 - INFO - Found 9 videos in Horror Face
+2025-09-21 21:58:23,931 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 21:58:24,994 - INFO - ✅ Downloaded: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 21:58:26,000 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 21:58:26,000 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 21:58:26,000 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 21:58:26,000 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 21:58:26,000 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 21:58:26,000 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 21:58:26,000 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 21:58:26,000 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 21:58:26,002 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Horror Face/videos.json with local file paths
+2025-09-21 21:58:26,003 - INFO - Found 3 videos in Monstrosity
+2025-09-21 21:58:26,003 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/73c09d8c-0980-4c37-9f73-05201291a43c.mp4
+2025-09-21 21:58:26,452 - INFO - Progress: 81.7%
+2025-09-21 21:58:26,484 - INFO - ✅ Downloaded: 73c09d8c-0980-4c37-9f73-05201291a43c.mp4
+2025-09-21 21:58:27,490 - INFO - ⏭️  Skipping existing: 73c09d8c-0980-4c37-9f73-05201291a43c.mp4
+2025-09-21 21:58:27,490 - INFO - ⏭️  Skipping existing: 73c09d8c-0980-4c37-9f73-05201291a43c.mp4
+2025-09-21 21:58:27,492 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Monstrosity/videos.json with local file paths
+2025-09-21 21:58:27,493 - INFO - Found 8 videos in Cotton Cloud
+2025-09-21 21:58:27,493 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 21:58:27,706 - INFO - ✅ Downloaded: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 21:58:28,712 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 21:58:28,712 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 21:58:28,712 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 21:58:28,712 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 21:58:28,712 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 21:58:28,712 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 21:58:28,712 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 21:58:28,714 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Cotton Cloud/videos.json with local file paths
+2025-09-21 21:58:28,715 - INFO - Found 3 videos in Objects Around
+2025-09-21 21:58:28,715 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/b2db5035-ac85-4741-ab0f-adbab579ca31.mp4
+2025-09-21 21:58:28,939 - INFO - ✅ Downloaded: b2db5035-ac85-4741-ab0f-adbab579ca31.mp4
+2025-09-21 21:58:29,943 - INFO - ⏭️  Skipping existing: b2db5035-ac85-4741-ab0f-adbab579ca31.mp4
+2025-09-21 21:58:29,943 - INFO - ⏭️  Skipping existing: b2db5035-ac85-4741-ab0f-adbab579ca31.mp4
+2025-09-21 21:58:29,944 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Objects Around/videos.json with local file paths
+2025-09-21 21:58:29,945 - INFO - Found 5 videos in Mystification
+2025-09-21 21:58:29,945 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 21:58:30,136 - INFO - ✅ Downloaded: 2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 21:58:31,140 - INFO - ⏭️  Skipping existing: 2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 21:58:31,141 - INFO - ⏭️  Skipping existing: 2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 21:58:31,141 - INFO - ⏭️  Skipping existing: 2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 21:58:31,141 - INFO - ⏭️  Skipping existing: 2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 21:58:31,141 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Mystification/videos.json with local file paths
+2025-09-21 21:58:31,142 - INFO - Found 8 videos in Animalization
+2025-09-21 21:58:31,142 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 21:58:31,418 - INFO - ✅ Downloaded: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 21:58:32,424 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 21:58:32,424 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 21:58:32,424 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 21:58:32,424 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 21:58:32,425 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 21:58:32,425 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 21:58:32,425 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 21:58:32,427 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Animalization/videos.json with local file paths
+2025-09-21 21:58:32,427 - INFO - Found 1 videos in Jump Transition
+2025-09-21 21:58:32,427 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/24f2abc3-ccf9-4a73-9e0a-ebf9d37975d7.mp4
+2025-09-21 21:58:32,692 - INFO - ✅ Downloaded: 24f2abc3-ccf9-4a73-9e0a-ebf9d37975d7.mp4
+2025-09-21 21:58:33,698 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Jump Transition/videos.json with local file paths
+2025-09-21 21:58:33,699 - INFO - Found 1 videos in Wonderland
+2025-09-21 21:58:33,699 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/fc6ceb44-453f-4c6a-aad1-f85b42dc95e8.mp4
+2025-09-21 21:58:33,939 - INFO - Progress: 29.8%
+2025-09-21 21:58:34,993 - INFO - Progress: 59.6%
+2025-09-21 21:58:35,096 - INFO - Progress: 89.4%
+2025-09-21 21:58:35,104 - INFO - ✅ Downloaded: fc6ceb44-453f-4c6a-aad1-f85b42dc95e8.mp4
+2025-09-21 21:58:36,110 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Wonderland/videos.json with local file paths
+2025-09-21 21:58:36,111 - INFO - Found 1 videos in Intermission
+2025-09-21 21:58:36,112 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/4e3fd227-360e-4269-b4f7-99cac57de016.mp4
+2025-09-21 21:58:36,443 - INFO - ✅ Downloaded: 4e3fd227-360e-4269-b4f7-99cac57de016.mp4
+2025-09-21 21:58:37,449 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Intermission/videos.json with local file paths
+2025-09-21 21:58:37,450 - INFO - Found 4 videos in Splash Transition
+2025-09-21 21:58:37,451 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/812614b7-2d4d-4ec4-b99e-816fe44ce826.mp4
+2025-09-21 21:58:37,652 - INFO - Progress: 49.5%
+2025-09-21 21:58:37,799 - INFO - Progress: 98.9%
+2025-09-21 21:58:37,800 - INFO - ✅ Downloaded: 812614b7-2d4d-4ec4-b99e-816fe44ce826.mp4
+2025-09-21 21:58:38,801 - INFO - ⏭️  Skipping existing: 812614b7-2d4d-4ec4-b99e-816fe44ce826.mp4
+2025-09-21 21:58:38,801 - INFO - ⏭️  Skipping existing: 812614b7-2d4d-4ec4-b99e-816fe44ce826.mp4
+2025-09-21 21:58:38,801 - INFO - ⏭️  Skipping existing: 812614b7-2d4d-4ec4-b99e-816fe44ce826.mp4
+2025-09-21 21:58:38,802 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Splash Transition/videos.json with local file paths
+2025-09-21 21:58:38,803 - INFO - Found 4 videos in Luminous Gaze
+2025-09-21 21:58:38,803 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/c89141fb-1efe-4a96-9863-381e3b8f9ae4.mp4
+2025-09-21 21:58:39,014 - INFO - ✅ Downloaded: c89141fb-1efe-4a96-9863-381e3b8f9ae4.mp4
+2025-09-21 21:58:40,017 - INFO - ⏭️  Skipping existing: c89141fb-1efe-4a96-9863-381e3b8f9ae4.mp4
+2025-09-21 21:58:40,018 - INFO - ⏭️  Skipping existing: c89141fb-1efe-4a96-9863-381e3b8f9ae4.mp4
+2025-09-21 21:58:40,018 - INFO - ⏭️  Skipping existing: c89141fb-1efe-4a96-9863-381e3b8f9ae4.mp4
+2025-09-21 21:58:40,018 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Luminous Gaze/videos.json with local file paths
+2025-09-21 21:58:40,019 - INFO - Found 2 videos in Flame Transition
+2025-09-21 21:58:40,019 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/8dd17be3-1ba7-4ce0-bede-be5a0159fcfc.mp4
+2025-09-21 21:58:40,447 - INFO - ✅ Downloaded: 8dd17be3-1ba7-4ce0-bede-be5a0159fcfc.mp4
+2025-09-21 21:58:41,452 - INFO - ⏭️  Skipping existing: 8dd17be3-1ba7-4ce0-bede-be5a0159fcfc.mp4
+2025-09-21 21:58:41,453 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Flame Transition/videos.json with local file paths
+2025-09-21 21:58:41,453 - INFO - Found 1 videos in Multiverse
+2025-09-21 21:58:41,453 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/840a3d93-564b-43ea-bf5d-46f0a61f12df.mp4
+2025-09-21 21:58:41,819 - INFO - Progress: 33.3%
+2025-09-21 21:58:41,973 - INFO - Progress: 66.6%
+2025-09-21 21:58:42,168 - INFO - Progress: 99.9%
+2025-09-21 21:58:42,168 - INFO - ✅ Downloaded: 840a3d93-564b-43ea-bf5d-46f0a61f12df.mp4
+2025-09-21 21:58:43,174 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Multiverse/videos.json with local file paths
+2025-09-21 21:58:43,176 - INFO - Found 1 videos in Hole Transition
+2025-09-21 21:58:43,176 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/22875b3c-6301-44ea-b1e0-47ad6a4db5b8.mp4
+2025-09-21 21:58:43,495 - INFO - ✅ Downloaded: 22875b3c-6301-44ea-b1e0-47ad6a4db5b8.mp4
+2025-09-21 21:58:44,500 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Hole Transition/videos.json with local file paths
+2025-09-21 21:58:44,501 - INFO - Found 4 videos in Flying Cam Transition
+2025-09-21 21:58:44,501 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/71990a66-268d-4aaf-b5cd-0ee566c07c29.mp4
+2025-09-21 21:58:44,862 - INFO - ✅ Downloaded: 71990a66-268d-4aaf-b5cd-0ee566c07c29.mp4
+2025-09-21 21:58:45,867 - INFO - ⏭️  Skipping existing: 71990a66-268d-4aaf-b5cd-0ee566c07c29.mp4
+2025-09-21 21:58:45,867 - INFO - ⏭️  Skipping existing: 71990a66-268d-4aaf-b5cd-0ee566c07c29.mp4
+2025-09-21 21:58:45,867 - INFO - ⏭️  Skipping existing: 71990a66-268d-4aaf-b5cd-0ee566c07c29.mp4
+2025-09-21 21:58:45,869 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Flying Cam Transition/videos.json with local file paths
+2025-09-21 21:58:45,869 - INFO - Found 3 videos in Display Transition
+2025-09-21 21:58:45,870 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/bf105e54-a39b-42dd-9034-303a8fae6b82.mp4
+2025-09-21 21:58:46,295 - INFO - ✅ Downloaded: bf105e54-a39b-42dd-9034-303a8fae6b82.mp4
+2025-09-21 21:58:47,301 - INFO - ⏭️  Skipping existing: bf105e54-a39b-42dd-9034-303a8fae6b82.mp4
+2025-09-21 21:58:47,301 - INFO - ⏭️  Skipping existing: bf105e54-a39b-42dd-9034-303a8fae6b82.mp4
+2025-09-21 21:58:47,302 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Display Transition/videos.json with local file paths
+2025-09-21 21:58:47,303 - INFO - Found 2 videos in Stranger Transition
+2025-09-21 21:58:47,304 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/45aada3d-d7a7-4722-923a-0e1f8cbe8bf3.mp4
+2025-09-21 21:58:47,707 - INFO - ✅ Downloaded: 45aada3d-d7a7-4722-923a-0e1f8cbe8bf3.mp4
+2025-09-21 21:58:48,712 - INFO - ⏭️  Skipping existing: 45aada3d-d7a7-4722-923a-0e1f8cbe8bf3.mp4
+2025-09-21 21:58:48,713 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Stranger Transition/videos.json with local file paths
+2025-09-21 21:58:48,713 - INFO - Found 2 videos in Gorilla Transfer
+2025-09-21 21:58:48,714 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/ed8abe4c-dd35-4462-9b74-44366d203543.mp4
+2025-09-21 21:58:48,938 - INFO - Progress: 74.5%
+2025-09-21 21:58:48,941 - INFO - ✅ Downloaded: ed8abe4c-dd35-4462-9b74-44366d203543.mp4
+2025-09-21 21:58:49,946 - INFO - ⏭️  Skipping existing: ed8abe4c-dd35-4462-9b74-44366d203543.mp4
+2025-09-21 21:58:49,946 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Gorilla Transfer/videos.json with local file paths
+2025-09-21 21:58:49,947 - INFO - Found 8 videos in Color Rain
+2025-09-21 21:58:49,947 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 21:58:50,260 - INFO - ✅ Downloaded: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 21:58:51,265 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 21:58:51,266 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 21:58:51,266 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 21:58:51,266 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 21:58:51,266 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 21:58:51,266 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 21:58:51,266 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 21:58:51,266 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Color Rain/videos.json with local file paths
+2025-09-21 21:58:51,267 - INFO - Found 2 videos in Nature Bloom
+2025-09-21 21:58:51,267 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/b7c06309-b659-4b47-beb8-bac54ebe6389.mp4
+2025-09-21 21:58:51,634 - INFO - Progress: 77.9%
+2025-09-21 21:58:51,728 - INFO - ✅ Downloaded: b7c06309-b659-4b47-beb8-bac54ebe6389.mp4
+2025-09-21 21:58:52,731 - INFO - ⏭️  Skipping existing: b7c06309-b659-4b47-beb8-bac54ebe6389.mp4
+2025-09-21 21:58:52,732 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Nature Bloom/videos.json with local file paths
+2025-09-21 21:58:52,733 - INFO - Found 3 videos in Raven Transition
+2025-09-21 21:58:52,733 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/ec0c8890-fe56-4d36-a6b8-5a886f4ddc59.mp4
+2025-09-21 21:58:53,064 - INFO - Progress: 61.1%
+2025-09-21 21:58:53,269 - INFO - ✅ Downloaded: ec0c8890-fe56-4d36-a6b8-5a886f4ddc59.mp4
+2025-09-21 21:58:54,273 - INFO - ⏭️  Skipping existing: ec0c8890-fe56-4d36-a6b8-5a886f4ddc59.mp4
+2025-09-21 21:58:54,274 - INFO - ⏭️  Skipping existing: ec0c8890-fe56-4d36-a6b8-5a886f4ddc59.mp4
+2025-09-21 21:58:54,276 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Raven Transition/videos.json with local file paths
+2025-09-21 21:58:54,277 - INFO - Found 6 videos in Earth Element
+2025-09-21 21:58:54,277 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 21:58:54,627 - INFO - Progress: 85.2%
+2025-09-21 21:58:54,657 - INFO - ✅ Downloaded: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 21:58:55,663 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 21:58:55,664 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 21:58:55,665 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 21:58:55,665 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 21:58:55,665 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 21:58:55,667 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Earth Element/videos.json with local file paths
+2025-09-21 21:58:55,667 - INFO - Found 3 videos in Fairies Around
+2025-09-21 21:58:55,667 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/cdd922c0-7ece-4c8a-8fa6-d10ef0babb6a.mp4
+2025-09-21 21:58:55,916 - INFO - ✅ Downloaded: cdd922c0-7ece-4c8a-8fa6-d10ef0babb6a.mp4
+2025-09-21 21:58:56,919 - INFO - ⏭️  Skipping existing: cdd922c0-7ece-4c8a-8fa6-d10ef0babb6a.mp4
+2025-09-21 21:58:56,919 - INFO - ⏭️  Skipping existing: cdd922c0-7ece-4c8a-8fa6-d10ef0babb6a.mp4
+2025-09-21 21:58:56,921 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Fairies Around/videos.json with local file paths
+2025-09-21 21:58:56,922 - INFO - Found 8 videos in Northern Lights
+2025-09-21 21:58:56,922 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 21:58:57,286 - INFO - ✅ Downloaded: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 21:58:58,291 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 21:58:58,291 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 21:58:58,291 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 21:58:58,291 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 21:58:58,291 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 21:58:58,291 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 21:58:58,291 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 21:58:58,292 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Northern Lights/videos.json with local file paths
+2025-09-21 21:58:58,292 - INFO - Found 12 videos in Beast Appearance
+2025-09-21 21:58:58,292 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:58,649 - INFO - ✅ Downloaded: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,655 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,655 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,655 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,655 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,656 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,656 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,656 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,656 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,656 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,656 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,656 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 21:58:59,657 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Beast Appearance/videos.json with local file paths
+2025-09-21 21:58:59,658 - INFO - Found 4 videos in Melt Transition
+2025-09-21 21:58:59,658 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/4b8ff2f8-5ba8-40f8-87eb-af655d467b8b.mp4
+2025-09-21 21:59:00,176 - INFO - ✅ Downloaded: 4b8ff2f8-5ba8-40f8-87eb-af655d467b8b.mp4
+2025-09-21 21:59:01,181 - INFO - ⏭️  Skipping existing: 4b8ff2f8-5ba8-40f8-87eb-af655d467b8b.mp4
+2025-09-21 21:59:01,181 - INFO - ⏭️  Skipping existing: 4b8ff2f8-5ba8-40f8-87eb-af655d467b8b.mp4
+2025-09-21 21:59:01,181 - INFO - ⏭️  Skipping existing: 4b8ff2f8-5ba8-40f8-87eb-af655d467b8b.mp4
+2025-09-21 21:59:01,182 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Melt Transition/videos.json with local file paths
+2025-09-21 21:59:01,183 - INFO - Found 3 videos in Water Element
+2025-09-21 21:59:01,184 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/c6485671-66d4-4af4-ae65-d8b0de98c9fd.mp4
+2025-09-21 21:59:01,617 - INFO - Progress: 96.9%
+2025-09-21 21:59:01,618 - INFO - ✅ Downloaded: c6485671-66d4-4af4-ae65-d8b0de98c9fd.mp4
+2025-09-21 21:59:02,623 - INFO - ⏭️  Skipping existing: c6485671-66d4-4af4-ae65-d8b0de98c9fd.mp4
+2025-09-21 21:59:02,623 - INFO - ⏭️  Skipping existing: c6485671-66d4-4af4-ae65-d8b0de98c9fd.mp4
+2025-09-21 21:59:02,624 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Water Element/videos.json with local file paths
+2025-09-21 21:59:02,624 - INFO - Found 5 videos in Giant Grab
+2025-09-21 21:59:02,624 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 21:59:02,909 - INFO - ✅ Downloaded: bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 21:59:03,911 - INFO - ⏭️  Skipping existing: bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 21:59:03,911 - INFO - ⏭️  Skipping existing: bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 21:59:03,911 - INFO - ⏭️  Skipping existing: bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 21:59:03,911 - INFO - ⏭️  Skipping existing: bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 21:59:03,913 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Giant Grab/videos.json with local file paths
+2025-09-21 21:59:03,913 - INFO - Found 5 videos in Starship Troopers
+2025-09-21 21:59:03,914 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 21:59:04,219 - INFO - Progress: 60.7%
+2025-09-21 21:59:04,410 - INFO - ✅ Downloaded: 4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 21:59:05,411 - INFO - ⏭️  Skipping existing: 4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 21:59:05,411 - INFO - ⏭️  Skipping existing: 4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 21:59:05,411 - INFO - ⏭️  Skipping existing: 4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 21:59:05,412 - INFO - ⏭️  Skipping existing: 4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 21:59:05,414 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Starship Troopers/videos.json with local file paths
+2025-09-21 21:59:05,415 - INFO - Found 2 videos in Hand Transition
+2025-09-21 21:59:05,415 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/5ce96e11-d02c-4096-843a-972487971c3c.mp4
+2025-09-21 21:59:05,862 - INFO - ✅ Downloaded: 5ce96e11-d02c-4096-843a-972487971c3c.mp4
+2025-09-21 22:00:11,190 - INFO - Starting video download process...
+2025-09-21 22:00:11,190 - INFO - Found 11 categories to process
+2025-09-21 22:00:11,190 - INFO - Processing category: Kling 2.1 Master
+2025-09-21 22:00:11,192 - INFO - Found 9 videos in Horror Face
+2025-09-21 22:00:11,192 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 22:00:11,192 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 22:00:11,192 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 22:00:11,192 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 22:00:11,192 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 22:00:11,192 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 22:00:11,192 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 22:00:11,192 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 22:00:11,192 - INFO - ⏭️  Skipping existing: 5cc159d3-47c5-4871-a03a-63ac3c80d727.mp4
+2025-09-21 22:00:11,193 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Horror Face/videos.json with local file paths
+2025-09-21 22:00:11,193 - INFO - Found 3 videos in Monstrosity
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 73c09d8c-0980-4c37-9f73-05201291a43c.mp4
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 73c09d8c-0980-4c37-9f73-05201291a43c.mp4
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 73c09d8c-0980-4c37-9f73-05201291a43c.mp4
+2025-09-21 22:00:11,193 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Monstrosity/videos.json with local file paths
+2025-09-21 22:00:11,193 - INFO - Found 8 videos in Cotton Cloud
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 22:00:11,193 - INFO - ⏭️  Skipping existing: 25c233ae-26a6-4037-8eb8-e0a65fa8ea11.mp4
+2025-09-21 22:00:11,193 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Cotton Cloud/videos.json with local file paths
+2025-09-21 22:00:11,194 - INFO - Found 3 videos in Objects Around
+2025-09-21 22:00:11,194 - INFO - ⏭️  Skipping existing: b2db5035-ac85-4741-ab0f-adbab579ca31.mp4
+2025-09-21 22:00:11,194 - INFO - ⏭️  Skipping existing: b2db5035-ac85-4741-ab0f-adbab579ca31.mp4
+2025-09-21 22:00:11,194 - INFO - ⏭️  Skipping existing: b2db5035-ac85-4741-ab0f-adbab579ca31.mp4
+2025-09-21 22:00:11,194 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Objects Around/videos.json with local file paths
+2025-09-21 22:00:11,194 - INFO - Found 5 videos in Mystification
+2025-09-21 22:00:11,194 - INFO - ⏭️  Skipping existing: 2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 22:00:11,194 - INFO - ⏭️  Skipping existing: 2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 22:00:11,194 - INFO - ⏭️  Skipping existing: 2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 22:00:11,194 - INFO - ⏭️  Skipping existing: 2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 22:00:11,194 - INFO - ⏭️  Skipping existing: 2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+2025-09-21 22:00:11,195 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Mystification/videos.json with local file paths
+2025-09-21 22:00:11,195 - INFO - Found 8 videos in Animalization
+2025-09-21 22:00:11,195 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 22:00:11,195 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 22:00:11,195 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 22:00:11,195 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 22:00:11,195 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 22:00:11,195 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 22:00:11,195 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 22:00:11,196 - INFO - ⏭️  Skipping existing: 3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+2025-09-21 22:00:11,196 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Animalization/videos.json with local file paths
+2025-09-21 22:00:11,196 - INFO - Found 1 videos in Jump Transition
+2025-09-21 22:00:11,196 - INFO - ⏭️  Skipping existing: 24f2abc3-ccf9-4a73-9e0a-ebf9d37975d7.mp4
+2025-09-21 22:00:11,196 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Jump Transition/videos.json with local file paths
+2025-09-21 22:00:11,197 - INFO - Found 1 videos in Wonderland
+2025-09-21 22:00:11,197 - INFO - ⏭️  Skipping existing: fc6ceb44-453f-4c6a-aad1-f85b42dc95e8.mp4
+2025-09-21 22:00:11,197 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Wonderland/videos.json with local file paths
+2025-09-21 22:00:11,197 - INFO - Found 1 videos in Intermission
+2025-09-21 22:00:11,197 - INFO - ⏭️  Skipping existing: 4e3fd227-360e-4269-b4f7-99cac57de016.mp4
+2025-09-21 22:00:11,197 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Intermission/videos.json with local file paths
+2025-09-21 22:00:11,197 - INFO - Found 4 videos in Splash Transition
+2025-09-21 22:00:11,197 - INFO - ⏭️  Skipping existing: 812614b7-2d4d-4ec4-b99e-816fe44ce826.mp4
+2025-09-21 22:00:11,197 - INFO - ⏭️  Skipping existing: 812614b7-2d4d-4ec4-b99e-816fe44ce826.mp4
+2025-09-21 22:00:11,197 - INFO - ⏭️  Skipping existing: 812614b7-2d4d-4ec4-b99e-816fe44ce826.mp4
+2025-09-21 22:00:11,197 - INFO - ⏭️  Skipping existing: 812614b7-2d4d-4ec4-b99e-816fe44ce826.mp4
+2025-09-21 22:00:11,197 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Splash Transition/videos.json with local file paths
+2025-09-21 22:00:11,197 - INFO - Found 4 videos in Luminous Gaze
+2025-09-21 22:00:11,197 - INFO - ⏭️  Skipping existing: c89141fb-1efe-4a96-9863-381e3b8f9ae4.mp4
+2025-09-21 22:00:11,197 - INFO - ⏭️  Skipping existing: c89141fb-1efe-4a96-9863-381e3b8f9ae4.mp4
+2025-09-21 22:00:11,197 - INFO - ⏭️  Skipping existing: c89141fb-1efe-4a96-9863-381e3b8f9ae4.mp4
+2025-09-21 22:00:11,197 - INFO - ⏭️  Skipping existing: c89141fb-1efe-4a96-9863-381e3b8f9ae4.mp4
+2025-09-21 22:00:11,198 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Luminous Gaze/videos.json with local file paths
+2025-09-21 22:00:11,198 - INFO - Found 2 videos in Flame Transition
+2025-09-21 22:00:11,198 - INFO - ⏭️  Skipping existing: 8dd17be3-1ba7-4ce0-bede-be5a0159fcfc.mp4
+2025-09-21 22:00:11,198 - INFO - ⏭️  Skipping existing: 8dd17be3-1ba7-4ce0-bede-be5a0159fcfc.mp4
+2025-09-21 22:00:11,198 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Flame Transition/videos.json with local file paths
+2025-09-21 22:00:11,198 - INFO - Found 1 videos in Multiverse
+2025-09-21 22:00:11,198 - INFO - ⏭️  Skipping existing: 840a3d93-564b-43ea-bf5d-46f0a61f12df.mp4
+2025-09-21 22:00:11,198 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Multiverse/videos.json with local file paths
+2025-09-21 22:00:11,198 - INFO - Found 1 videos in Hole Transition
+2025-09-21 22:00:11,198 - INFO - ⏭️  Skipping existing: 22875b3c-6301-44ea-b1e0-47ad6a4db5b8.mp4
+2025-09-21 22:00:11,198 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Hole Transition/videos.json with local file paths
+2025-09-21 22:00:11,198 - INFO - Found 4 videos in Flying Cam Transition
+2025-09-21 22:00:11,198 - INFO - ⏭️  Skipping existing: 71990a66-268d-4aaf-b5cd-0ee566c07c29.mp4
+2025-09-21 22:00:11,198 - INFO - ⏭️  Skipping existing: 71990a66-268d-4aaf-b5cd-0ee566c07c29.mp4
+2025-09-21 22:00:11,198 - INFO - ⏭️  Skipping existing: 71990a66-268d-4aaf-b5cd-0ee566c07c29.mp4
+2025-09-21 22:00:11,198 - INFO - ⏭️  Skipping existing: 71990a66-268d-4aaf-b5cd-0ee566c07c29.mp4
+2025-09-21 22:00:11,198 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Flying Cam Transition/videos.json with local file paths
+2025-09-21 22:00:11,199 - INFO - Found 3 videos in Display Transition
+2025-09-21 22:00:11,199 - INFO - ⏭️  Skipping existing: bf105e54-a39b-42dd-9034-303a8fae6b82.mp4
+2025-09-21 22:00:11,199 - INFO - ⏭️  Skipping existing: bf105e54-a39b-42dd-9034-303a8fae6b82.mp4
+2025-09-21 22:00:11,199 - INFO - ⏭️  Skipping existing: bf105e54-a39b-42dd-9034-303a8fae6b82.mp4
+2025-09-21 22:00:11,199 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Display Transition/videos.json with local file paths
+2025-09-21 22:00:11,199 - INFO - Found 2 videos in Stranger Transition
+2025-09-21 22:00:11,199 - INFO - ⏭️  Skipping existing: 45aada3d-d7a7-4722-923a-0e1f8cbe8bf3.mp4
+2025-09-21 22:00:11,199 - INFO - ⏭️  Skipping existing: 45aada3d-d7a7-4722-923a-0e1f8cbe8bf3.mp4
+2025-09-21 22:00:11,199 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Stranger Transition/videos.json with local file paths
+2025-09-21 22:00:11,199 - INFO - Found 2 videos in Gorilla Transfer
+2025-09-21 22:00:11,199 - INFO - ⏭️  Skipping existing: ed8abe4c-dd35-4462-9b74-44366d203543.mp4
+2025-09-21 22:00:11,199 - INFO - ⏭️  Skipping existing: ed8abe4c-dd35-4462-9b74-44366d203543.mp4
+2025-09-21 22:00:11,199 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Gorilla Transfer/videos.json with local file paths
+2025-09-21 22:00:11,199 - INFO - Found 8 videos in Color Rain
+2025-09-21 22:00:11,199 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 22:00:11,199 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 22:00:11,199 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 22:00:11,200 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 22:00:11,200 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 22:00:11,200 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 22:00:11,200 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 22:00:11,200 - INFO - ⏭️  Skipping existing: ffbedcb3-ea4a-44a9-b5ca-015309237c80.mp4
+2025-09-21 22:00:11,200 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Color Rain/videos.json with local file paths
+2025-09-21 22:00:11,200 - INFO - Found 2 videos in Nature Bloom
+2025-09-21 22:00:11,200 - INFO - ⏭️  Skipping existing: b7c06309-b659-4b47-beb8-bac54ebe6389.mp4
+2025-09-21 22:00:11,200 - INFO - ⏭️  Skipping existing: b7c06309-b659-4b47-beb8-bac54ebe6389.mp4
+2025-09-21 22:00:11,200 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Nature Bloom/videos.json with local file paths
+2025-09-21 22:00:11,201 - INFO - Found 3 videos in Raven Transition
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: ec0c8890-fe56-4d36-a6b8-5a886f4ddc59.mp4
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: ec0c8890-fe56-4d36-a6b8-5a886f4ddc59.mp4
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: ec0c8890-fe56-4d36-a6b8-5a886f4ddc59.mp4
+2025-09-21 22:00:11,201 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Raven Transition/videos.json with local file paths
+2025-09-21 22:00:11,201 - INFO - Found 6 videos in Earth Element
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: b6916c01-6119-4159-aba9-cfef35d0176d.mp4
+2025-09-21 22:00:11,201 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Earth Element/videos.json with local file paths
+2025-09-21 22:00:11,201 - INFO - Found 3 videos in Fairies Around
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: cdd922c0-7ece-4c8a-8fa6-d10ef0babb6a.mp4
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: cdd922c0-7ece-4c8a-8fa6-d10ef0babb6a.mp4
+2025-09-21 22:00:11,201 - INFO - ⏭️  Skipping existing: cdd922c0-7ece-4c8a-8fa6-d10ef0babb6a.mp4
+2025-09-21 22:00:11,201 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Fairies Around/videos.json with local file paths
+2025-09-21 22:00:11,201 - INFO - Found 8 videos in Northern Lights
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 021fb851-f2a0-4002-b436-ca7efd280575.mp4
+2025-09-21 22:00:11,202 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Northern Lights/videos.json with local file paths
+2025-09-21 22:00:11,202 - INFO - Found 12 videos in Beast Appearance
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 1f93f3b2-1666-44ff-a8db-afceda70d2a0.mp4
+2025-09-21 22:00:11,202 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Beast Appearance/videos.json with local file paths
+2025-09-21 22:00:11,202 - INFO - Found 4 videos in Melt Transition
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 4b8ff2f8-5ba8-40f8-87eb-af655d467b8b.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 4b8ff2f8-5ba8-40f8-87eb-af655d467b8b.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 4b8ff2f8-5ba8-40f8-87eb-af655d467b8b.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: 4b8ff2f8-5ba8-40f8-87eb-af655d467b8b.mp4
+2025-09-21 22:00:11,202 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Melt Transition/videos.json with local file paths
+2025-09-21 22:00:11,202 - INFO - Found 3 videos in Water Element
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: c6485671-66d4-4af4-ae65-d8b0de98c9fd.mp4
+2025-09-21 22:00:11,202 - INFO - ⏭️  Skipping existing: c6485671-66d4-4af4-ae65-d8b0de98c9fd.mp4
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: c6485671-66d4-4af4-ae65-d8b0de98c9fd.mp4
+2025-09-21 22:00:11,203 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Water Element/videos.json with local file paths
+2025-09-21 22:00:11,203 - INFO - Found 5 videos in Giant Grab
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+2025-09-21 22:00:11,203 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Giant Grab/videos.json with local file paths
+2025-09-21 22:00:11,203 - INFO - Found 5 videos in Starship Troopers
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: 4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: 4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: 4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: 4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 22:00:11,203 - INFO - ⏭️  Skipping existing: 4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+2025-09-21 22:00:11,203 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Starship Troopers/videos.json with local file paths
+2025-09-21 22:00:11,204 - INFO - Found 2 videos in Hand Transition
+2025-09-21 22:00:11,204 - INFO - ⏭️  Skipping existing: 5ce96e11-d02c-4096-843a-972487971c3c.mp4
+2025-09-21 22:00:11,204 - INFO - ⏭️  Skipping existing: 5ce96e11-d02c-4096-843a-972487971c3c.mp4
+2025-09-21 22:00:11,204 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Hand Transition/videos.json with local file paths
+2025-09-21 22:00:11,204 - INFO - Found 2 videos in Ice rose
+2025-09-21 22:00:11,204 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/a214d5d1-2677-4acf-93a4-d4b4a6f32e82.mp4
+2025-09-21 22:00:13,402 - INFO - Progress: 71.6%
+2025-09-21 22:00:13,741 - INFO - ✅ Downloaded: a214d5d1-2677-4acf-93a4-d4b4a6f32e82.mp4
+2025-09-21 22:00:14,743 - INFO - ⏭️  Skipping existing: a214d5d1-2677-4acf-93a4-d4b4a6f32e82.mp4
+2025-09-21 22:00:14,750 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Ice rose/videos.json with local file paths
+2025-09-21 22:00:14,755 - INFO - Found 4 videos in I Can Fly
+2025-09-21 22:00:14,756 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/dd160cc5-cc59-48bd-b67e-9c9d7b7b19ba.mp4
+2025-09-21 22:00:16,223 - INFO - Progress: 76.0%
+2025-09-21 22:00:16,720 - INFO - ✅ Downloaded: dd160cc5-cc59-48bd-b67e-9c9d7b7b19ba.mp4
+2025-09-21 22:00:17,722 - INFO - ⏭️  Skipping existing: dd160cc5-cc59-48bd-b67e-9c9d7b7b19ba.mp4
+2025-09-21 22:00:17,723 - INFO - ⏭️  Skipping existing: dd160cc5-cc59-48bd-b67e-9c9d7b7b19ba.mp4
+2025-09-21 22:00:17,723 - INFO - ⏭️  Skipping existing: dd160cc5-cc59-48bd-b67e-9c9d7b7b19ba.mp4
+2025-09-21 22:00:17,724 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/I Can Fly/videos.json with local file paths
+2025-09-21 22:00:17,724 - INFO - Found 7 videos in Pizza Fall
+2025-09-21 22:00:17,724 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/bdc0986b-31e2-4f48-ba8a-349320acfc92.mp4
+2025-09-21 22:00:18,622 - INFO - Progress: 98.9%
+2025-09-21 22:00:18,624 - INFO - ✅ Downloaded: bdc0986b-31e2-4f48-ba8a-349320acfc92.mp4
+2025-09-21 22:00:19,629 - INFO - ⏭️  Skipping existing: bdc0986b-31e2-4f48-ba8a-349320acfc92.mp4
+2025-09-21 22:00:19,630 - INFO - ⏭️  Skipping existing: bdc0986b-31e2-4f48-ba8a-349320acfc92.mp4
+2025-09-21 22:00:19,630 - INFO - ⏭️  Skipping existing: bdc0986b-31e2-4f48-ba8a-349320acfc92.mp4
+2025-09-21 22:00:19,630 - INFO - ⏭️  Skipping existing: bdc0986b-31e2-4f48-ba8a-349320acfc92.mp4
+2025-09-21 22:00:19,630 - INFO - ⏭️  Skipping existing: bdc0986b-31e2-4f48-ba8a-349320acfc92.mp4
+2025-09-21 22:00:19,630 - INFO - ⏭️  Skipping existing: bdc0986b-31e2-4f48-ba8a-349320acfc92.mp4
+2025-09-21 22:00:19,632 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Pizza Fall/videos.json with local file paths
+2025-09-21 22:00:19,633 - INFO - Found 4 videos in Fire Element
+2025-09-21 22:00:19,633 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/e446d636-26f4-4722-bf57-735924101422.mp4
+2025-09-21 22:00:20,338 - INFO - Progress: 86.4%
+2025-09-21 22:00:20,411 - INFO - ✅ Downloaded: e446d636-26f4-4722-bf57-735924101422.mp4
+2025-09-21 22:00:21,416 - INFO - ⏭️  Skipping existing: e446d636-26f4-4722-bf57-735924101422.mp4
+2025-09-21 22:00:21,416 - INFO - ⏭️  Skipping existing: e446d636-26f4-4722-bf57-735924101422.mp4
+2025-09-21 22:00:21,417 - INFO - ⏭️  Skipping existing: e446d636-26f4-4722-bf57-735924101422.mp4
+2025-09-21 22:00:21,417 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Fire Element/videos.json with local file paths
+2025-09-21 22:00:21,418 - INFO - Found 6 videos in Ballet
+2025-09-21 22:00:21,418 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/1bb67002-fd4a-420f-af1c-097c185f90b8.mp4
+2025-09-21 22:00:21,957 - INFO - ✅ Downloaded: 1bb67002-fd4a-420f-af1c-097c185f90b8.mp4
+2025-09-21 22:00:22,963 - INFO - ⏭️  Skipping existing: 1bb67002-fd4a-420f-af1c-097c185f90b8.mp4
+2025-09-21 22:00:22,963 - INFO - ⏭️  Skipping existing: 1bb67002-fd4a-420f-af1c-097c185f90b8.mp4
+2025-09-21 22:00:22,963 - INFO - ⏭️  Skipping existing: 1bb67002-fd4a-420f-af1c-097c185f90b8.mp4
+2025-09-21 22:00:22,963 - INFO - ⏭️  Skipping existing: 1bb67002-fd4a-420f-af1c-097c185f90b8.mp4
+2025-09-21 22:00:22,963 - INFO - ⏭️  Skipping existing: 1bb67002-fd4a-420f-af1c-097c185f90b8.mp4
+2025-09-21 22:00:22,964 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Ballet/videos.json with local file paths
+2025-09-21 22:00:22,965 - INFO - Found 7 videos in Firework
+2025-09-21 22:00:22,965 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/cf27736b-2dbb-45c1-b941-d82c9a280b8f.mp4
+2025-09-21 22:00:23,572 - INFO - ✅ Downloaded: cf27736b-2dbb-45c1-b941-d82c9a280b8f.mp4
+2025-09-21 22:00:24,576 - INFO - ⏭️  Skipping existing: cf27736b-2dbb-45c1-b941-d82c9a280b8f.mp4
+2025-09-21 22:00:24,576 - INFO - ⏭️  Skipping existing: cf27736b-2dbb-45c1-b941-d82c9a280b8f.mp4
+2025-09-21 22:00:24,576 - INFO - ⏭️  Skipping existing: cf27736b-2dbb-45c1-b941-d82c9a280b8f.mp4
+2025-09-21 22:00:24,576 - INFO - ⏭️  Skipping existing: cf27736b-2dbb-45c1-b941-d82c9a280b8f.mp4
+2025-09-21 22:00:24,577 - INFO - ⏭️  Skipping existing: cf27736b-2dbb-45c1-b941-d82c9a280b8f.mp4
+2025-09-21 22:00:24,577 - INFO - ⏭️  Skipping existing: cf27736b-2dbb-45c1-b941-d82c9a280b8f.mp4
+2025-09-21 22:00:24,580 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Firework/videos.json with local file paths
+2025-09-21 22:00:24,581 - INFO - Found 3 videos in Column Wipe
+2025-09-21 22:00:24,581 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/df839982-50b1-4808-bc47-14b747899f1b.mp4
+2025-09-21 22:00:25,464 - INFO - Progress: 47.6%
+2025-09-21 22:00:26,009 - INFO - Progress: 95.1%
+2025-09-21 22:00:26,009 - INFO - ✅ Downloaded: df839982-50b1-4808-bc47-14b747899f1b.mp4
+2025-09-21 22:00:27,010 - INFO - ⏭️  Skipping existing: df839982-50b1-4808-bc47-14b747899f1b.mp4
+2025-09-21 22:00:27,010 - INFO - ⏭️  Skipping existing: df839982-50b1-4808-bc47-14b747899f1b.mp4
+2025-09-21 22:00:27,011 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Column Wipe/videos.json with local file paths
+2025-09-21 22:00:27,011 - INFO - Found 5 videos in Air Element
+2025-09-21 22:00:27,011 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/2119052b-0043-478e-b878-a879ff658220.mp4
+2025-09-21 22:00:27,610 - INFO - Progress: 66.1%
+2025-09-21 22:00:27,803 - INFO - ✅ Downloaded: 2119052b-0043-478e-b878-a879ff658220.mp4
+2025-09-21 22:00:28,805 - INFO - ⏭️  Skipping existing: 2119052b-0043-478e-b878-a879ff658220.mp4
+2025-09-21 22:00:28,805 - INFO - ⏭️  Skipping existing: 2119052b-0043-478e-b878-a879ff658220.mp4
+2025-09-21 22:00:28,805 - INFO - ⏭️  Skipping existing: 2119052b-0043-478e-b878-a879ff658220.mp4
+2025-09-21 22:00:28,805 - INFO - ⏭️  Skipping existing: 2119052b-0043-478e-b878-a879ff658220.mp4
+2025-09-21 22:00:28,806 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Air Element/videos.json with local file paths
+2025-09-21 22:00:28,806 - INFO - Found 1 videos in Cyborg
+2025-09-21 22:00:28,806 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/b297103b-26e2-4c94-8134-0e8f74dddbe8.mp4
+2025-09-21 22:00:29,160 - INFO - ✅ Downloaded: b297103b-26e2-4c94-8134-0e8f74dddbe8.mp4
+2025-09-21 22:00:30,165 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Cyborg/videos.json with local file paths
+2025-09-21 22:00:30,166 - INFO - Found 6 videos in Aquarium
+2025-09-21 22:00:30,166 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/168595b2-9d37-4e65-adef-e411e5abaf3f.mp4
+2025-09-21 22:00:30,717 - INFO - Progress: 71.2%
+2025-09-21 22:00:30,847 - INFO - ✅ Downloaded: 168595b2-9d37-4e65-adef-e411e5abaf3f.mp4
+2025-09-21 22:00:31,853 - INFO - ⏭️  Skipping existing: 168595b2-9d37-4e65-adef-e411e5abaf3f.mp4
+2025-09-21 22:00:31,853 - INFO - ⏭️  Skipping existing: 168595b2-9d37-4e65-adef-e411e5abaf3f.mp4
+2025-09-21 22:00:31,853 - INFO - ⏭️  Skipping existing: 168595b2-9d37-4e65-adef-e411e5abaf3f.mp4
+2025-09-21 22:00:31,853 - INFO - ⏭️  Skipping existing: 168595b2-9d37-4e65-adef-e411e5abaf3f.mp4
+2025-09-21 22:00:31,853 - INFO - ⏭️  Skipping existing: 168595b2-9d37-4e65-adef-e411e5abaf3f.mp4
+2025-09-21 22:00:31,854 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Aquarium/videos.json with local file paths
+2025-09-21 22:00:31,854 - INFO - Found 4 videos in Plasma Explosion
+2025-09-21 22:00:31,854 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/244cbbd1-2ecb-423a-aaec-1c00ed560814.mp4
+2025-09-21 22:00:32,537 - INFO - Progress: 68.8%
+2025-09-21 22:00:32,642 - INFO - ✅ Downloaded: 244cbbd1-2ecb-423a-aaec-1c00ed560814.mp4
+2025-09-21 22:00:33,644 - INFO - ⏭️  Skipping existing: 244cbbd1-2ecb-423a-aaec-1c00ed560814.mp4
+2025-09-21 22:00:33,644 - INFO - ⏭️  Skipping existing: 244cbbd1-2ecb-423a-aaec-1c00ed560814.mp4
+2025-09-21 22:00:33,645 - INFO - ⏭️  Skipping existing: 244cbbd1-2ecb-423a-aaec-1c00ed560814.mp4
+2025-09-21 22:00:33,646 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Plasma Explosion/videos.json with local file paths
+2025-09-21 22:00:33,646 - INFO - Found 5 videos in Aerial Pullback
+2025-09-21 22:00:33,647 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/7689b5b7-2ac6-4e0c-9447-200d84bf16c0.mp4
+2025-09-21 22:00:34,233 - INFO - Progress: 72.0%
+2025-09-21 22:00:34,351 - INFO - ✅ Downloaded: 7689b5b7-2ac6-4e0c-9447-200d84bf16c0.mp4
+2025-09-21 22:00:35,353 - INFO - ⏭️  Skipping existing: 7689b5b7-2ac6-4e0c-9447-200d84bf16c0.mp4
+2025-09-21 22:00:35,353 - INFO - ⏭️  Skipping existing: 7689b5b7-2ac6-4e0c-9447-200d84bf16c0.mp4
+2025-09-21 22:00:35,353 - INFO - ⏭️  Skipping existing: 7689b5b7-2ac6-4e0c-9447-200d84bf16c0.mp4
+2025-09-21 22:00:35,354 - INFO - ⏭️  Skipping existing: 7689b5b7-2ac6-4e0c-9447-200d84bf16c0.mp4
+2025-09-21 22:00:35,355 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Aerial Pullback/videos.json with local file paths
+2025-09-21 22:00:35,355 - INFO - Found 1 videos in Smoke Transition
+2025-09-21 22:00:35,355 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/bc070c05-9d3a-45b2-9858-30350ceacc30.mp4
+2025-09-21 22:00:36,060 - INFO - ✅ Downloaded: bc070c05-9d3a-45b2-9858-30350ceacc30.mp4
+2025-09-21 22:00:37,065 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Smoke Transition/videos.json with local file paths
+2025-09-21 22:00:37,065 - INFO - Found 3 videos in Visor X
+2025-09-21 22:00:37,065 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/8fafe981-5a0e-41c1-ba81-ee056210a736.mp4
+2025-09-21 22:00:37,734 - INFO - ✅ Downloaded: 8fafe981-5a0e-41c1-ba81-ee056210a736.mp4
+2025-09-21 22:00:38,735 - INFO - ⏭️  Skipping existing: 8fafe981-5a0e-41c1-ba81-ee056210a736.mp4
+2025-09-21 22:00:38,735 - INFO - ⏭️  Skipping existing: 8fafe981-5a0e-41c1-ba81-ee056210a736.mp4
+2025-09-21 22:00:38,736 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Visor X/videos.json with local file paths
+2025-09-21 22:00:38,737 - INFO - Found 1 videos in Logo Transform
+2025-09-21 22:00:38,737 - INFO - Downloading: https://cdn.higgsfield.ai/kling_motion/af9b47a1-6db9-4a68-bdc4-467a49fca07e.mp4
+2025-09-21 22:00:39,006 - INFO - ✅ Downloaded: af9b47a1-6db9-4a68-bdc4-467a49fca07e.mp4
+2025-09-21 22:00:40,012 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Kling 2.1 Master/Logo Transform/videos.json with local file paths
+2025-09-21 22:00:40,012 - INFO - Category Kling 2.1 Master completed: 15 downloaded, 0 failed
+2025-09-21 22:00:40,012 - INFO - Processing category: Camera Controls
+2025-09-21 22:00:40,016 - INFO - Found 2 videos in Hyperlapse
+2025-09-21 22:00:40,016 - INFO - Downloading: https://static.higgsfield.ai/8e636a63-84e1-4824-9b61-6a23b52bf214.mp4
+2025-09-21 22:00:41,630 - INFO - ✅ Downloaded: 8e636a63-84e1-4824-9b61-6a23b52bf214.mp4
+2025-09-21 22:00:42,634 - INFO - Downloading: https://static.higgsfield.ai/d4b12954-2ad1-4e0b-bbe6-bb22b3eb9263.mp4
+2025-09-21 22:00:43,085 - INFO - ✅ Downloaded: d4b12954-2ad1-4e0b-bbe6-bb22b3eb9263.mp4
+2025-09-21 22:00:44,089 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Camera Controls/Hyperlapse/videos.json with local file paths
+2025-09-21 22:00:44,089 - INFO - Found 10 videos in Through Object In
+2025-09-21 22:00:44,090 - INFO - Downloading: https://cdn.higgsfield.ai/minimax_hailuo_motion/0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:44,622 - INFO - ✅ Downloaded: 0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:45,627 - INFO - ⏭️  Skipping existing: 0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:45,627 - INFO - ⏭️  Skipping existing: 0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:45,628 - INFO - ⏭️  Skipping existing: 0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:45,628 - INFO - ⏭️  Skipping existing: 0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:45,628 - INFO - ⏭️  Skipping existing: 0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:45,628 - INFO - ⏭️  Skipping existing: 0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:45,628 - INFO - ⏭️  Skipping existing: 0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:45,628 - INFO - ⏭️  Skipping existing: 0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:45,628 - INFO - ⏭️  Skipping existing: 0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+2025-09-21 22:00:45,629 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Camera Controls/Through Object In/videos.json with local file paths
+2025-09-21 22:00:45,630 - INFO - Found 9 videos in Dolly Out
+2025-09-21 22:00:45,630 - INFO - Downloading: https://static.higgsfield.ai/b9df4a77-c6c0-45d0-9e34-bf075c4cd733.mp4
+2025-09-21 22:00:46,440 - INFO - ✅ Downloaded: b9df4a77-c6c0-45d0-9e34-bf075c4cd733.mp4
+2025-09-21 22:00:47,446 - INFO - Downloading: https://static.higgsfield.ai/c826f62e-3223-4448-8360-b04fd0a3a78b.mp4
+2025-09-21 22:00:49,088 - INFO - ✅ Downloaded: c826f62e-3223-4448-8360-b04fd0a3a78b.mp4
+2025-09-21 22:00:50,092 - INFO - Downloading: https://static.higgsfield.ai/2955748c-1206-403e-8dad-306487359c5f.mp4
+2025-09-21 22:00:51,494 - INFO - ✅ Downloaded: 2955748c-1206-403e-8dad-306487359c5f.mp4
+2025-09-21 22:00:52,499 - INFO - Downloading: https://static.higgsfield.ai/3c4c9e92-873c-4d78-831b-c94642a6e94b.mp4
+2025-09-21 22:00:53,646 - INFO - ✅ Downloaded: 3c4c9e92-873c-4d78-831b-c94642a6e94b.mp4
+2025-09-21 22:00:54,651 - INFO - Downloading: https://static.higgsfield.ai/e9e19d6c-463b-42dd-aa33-e72712e42e95.mp4
+2025-09-21 22:00:55,811 - INFO - ✅ Downloaded: e9e19d6c-463b-42dd-aa33-e72712e42e95.mp4
+2025-09-21 22:00:56,816 - INFO - Downloading: https://static.higgsfield.ai/8e6280a8-d398-4260-a16e-30ab3be074b6.mp4
+2025-09-21 22:00:57,918 - INFO - ✅ Downloaded: 8e6280a8-d398-4260-a16e-30ab3be074b6.mp4
+2025-09-21 22:00:58,922 - INFO - Downloading: https://static.higgsfield.ai/279ca788-fa56-410a-bd27-9d1567c73b95.mp4
+2025-09-21 22:01:00,373 - INFO - ✅ Downloaded: 279ca788-fa56-410a-bd27-9d1567c73b95.mp4
+2025-09-21 22:01:01,378 - INFO - Downloading: https://static.higgsfield.ai/5027149a-a009-4d30-bf72-cb46e7006af7.mp4
+2025-09-21 22:01:02,513 - INFO - ✅ Downloaded: 5027149a-a009-4d30-bf72-cb46e7006af7.mp4
+2025-09-21 22:01:03,518 - INFO - Downloading: https://static.higgsfield.ai/21546381-0368-4424-8647-2c938f7fa7c3.mp4
+2025-09-21 22:01:04,339 - INFO - ✅ Downloaded: 21546381-0368-4424-8647-2c938f7fa7c3.mp4
+2025-09-21 22:01:05,346 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Camera Controls/Dolly Out/videos.json with local file paths
+2025-09-21 22:01:05,347 - INFO - Found 7 videos in Rapid Zoom In
+2025-09-21 22:01:05,347 - INFO - Downloading: https://cdn.higgsfield.ai/minimax_hailuo_motion/dfa7b62b-c221-488b-a55a-919bcf23daf8.mp4
+2025-09-21 22:01:06,454 - INFO - Progress: 75.8%
+2025-09-21 22:01:06,543 - INFO - ✅ Downloaded: dfa7b62b-c221-488b-a55a-919bcf23daf8.mp4
+2025-09-21 22:01:07,547 - INFO - ⏭️  Skipping existing: dfa7b62b-c221-488b-a55a-919bcf23daf8.mp4
+2025-09-21 22:01:07,548 - INFO - ⏭️  Skipping existing: dfa7b62b-c221-488b-a55a-919bcf23daf8.mp4
+2025-09-21 22:01:07,548 - INFO - ⏭️  Skipping existing: dfa7b62b-c221-488b-a55a-919bcf23daf8.mp4
+2025-09-21 22:01:07,548 - INFO - ⏭️  Skipping existing: dfa7b62b-c221-488b-a55a-919bcf23daf8.mp4
+2025-09-21 22:01:07,548 - INFO - ⏭️  Skipping existing: dfa7b62b-c221-488b-a55a-919bcf23daf8.mp4
+2025-09-21 22:01:07,548 - INFO - ⏭️  Skipping existing: dfa7b62b-c221-488b-a55a-919bcf23daf8.mp4
+2025-09-21 22:01:07,549 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Camera Controls/Rapid Zoom In/videos.json with local file paths
+2025-09-21 22:01:07,549 - INFO - Found 7 videos in Timelapse Human
+2025-09-21 22:01:07,549 - INFO - Downloading: https://cdn.higgsfield.ai/minimax_hailuo_motion/74e763e5-c743-4693-a011-aba749b72e06.mp4
+2025-09-21 22:01:08,079 - INFO - Progress: 85.6%
+2025-09-21 22:01:08,121 - INFO - ✅ Downloaded: 74e763e5-c743-4693-a011-aba749b72e06.mp4
+2025-09-21 22:01:09,126 - INFO - ⏭️  Skipping existing: 74e763e5-c743-4693-a011-aba749b72e06.mp4
+2025-09-21 22:01:09,127 - INFO - ⏭️  Skipping existing: 74e763e5-c743-4693-a011-aba749b72e06.mp4
+2025-09-21 22:01:09,127 - INFO - ⏭️  Skipping existing: 74e763e5-c743-4693-a011-aba749b72e06.mp4
+2025-09-21 22:01:09,127 - INFO - ⏭️  Skipping existing: 74e763e5-c743-4693-a011-aba749b72e06.mp4
+2025-09-21 22:01:09,127 - INFO - ⏭️  Skipping existing: 74e763e5-c743-4693-a011-aba749b72e06.mp4
+2025-09-21 22:01:09,127 - INFO - ⏭️  Skipping existing: 74e763e5-c743-4693-a011-aba749b72e06.mp4
+2025-09-21 22:01:09,129 - INFO - ✅ Updated /Users/samueladeyemi/Documents/projects/higgsfieldAi/Camera Controls/Timelapse Human/videos.json with local file paths
+2025-09-21 22:01:09,130 - INFO - Found 8 videos in Zoom Out
+2025-09-21 22:01:09,131 - INFO - Downloading: https://static.higgsfield.ai/f8d64eef-a473-4b51-9bab-7ebbcb8bb4bd.mp4
+2025-09-21 22:01:10,287 - INFO - ✅ Downloaded: f8d64eef-a473-4b51-9bab-7ebbcb8bb4bd.mp4
+2025-09-21 22:01:11,293 - INFO - Downloading: https://static.higgsfield.ai/942c77b6-b0b2-45a7-9e69-8811b297a158.mp4
+2025-09-21 22:01:12,411 - INFO - ✅ Downloaded: 942c77b6-b0b2-45a7-9e69-8811b297a158.mp4
