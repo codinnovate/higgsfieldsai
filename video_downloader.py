@@ -127,32 +127,27 @@ class HiggsfieldVideoDownloader:
             self.logger.error(f"❌ Failed to download {video_url}: {e}")
             return False
 
-    def download_category_videos(self, category_folder):
-        """Download all videos from a category folder"""
+    def download_subcategory_videos(self, subcategory_folder):
+        """Download all videos from a specific subcategory folder"""
         try:
-            category_name = os.path.basename(category_folder)
-            self.logger.info(f"Processing category: {category_name}")
+            subcategory_name = os.path.basename(subcategory_folder)
+            self.logger.info(f"Processing subcategory: {subcategory_name}")
             
-            # Find all video files
-            video_files = self.find_video_files(category_folder)
+            # Create videos folder within the subcategory
+            videos_folder = os.path.join(subcategory_folder, "videos")
+            os.makedirs(videos_folder, exist_ok=True)
             
+            # Find video JSON files
+            video_files = self.find_video_files(subcategory_folder)
             if not video_files:
-                self.logger.warning(f"No video files found in {category_name}")
-                return
+                self.logger.warning(f"No video files found in {subcategory_name}")
+                return False
             
             total_downloaded = 0
             total_failed = 0
             
             for json_file in video_files:
                 try:
-                    # Get subcategory folder path
-                    subcategory_folder = os.path.dirname(json_file)
-                    subcategory_name = os.path.basename(subcategory_folder)
-                    
-                    # Create videos folder within the subcategory
-                    videos_folder = os.path.join(subcategory_folder, "videos")
-                    os.makedirs(videos_folder, exist_ok=True)
-                    
                     # Load videos from JSON
                     with open(json_file, 'r', encoding='utf-8') as f:
                         videos_data = json.load(f)
@@ -163,7 +158,7 @@ class HiggsfieldVideoDownloader:
                     else:
                         videos = videos_data.get('videos', [])
                     
-                    self.logger.info(f"Found {len(videos)} videos in {subcategory_name}")
+                    self.logger.info(f"Found {len(videos)} videos in {os.path.basename(json_file)}")
                     
                     # Track which videos were updated with local paths
                     updated_videos = []
@@ -230,7 +225,42 @@ class HiggsfieldVideoDownloader:
                     self.logger.error(f"Error processing file {json_file}: {e}")
                     continue
             
-            self.logger.info(f"Category {category_name} completed: {total_downloaded} downloaded, {total_failed} failed")
+            self.logger.info(f"Subcategory {subcategory_name} completed: {total_downloaded} downloaded, {total_failed} failed")
+            return True
+            
+        except Exception as e:
+            self.logger.error(f"Error processing subcategory {subcategory_folder}: {e}")
+            return False
+            
+    def download_category_videos(self, category_folder):
+        """Download all videos from a category folder"""
+        try:
+            category_name = os.path.basename(category_folder)
+            self.logger.info(f"Processing category: {category_name}")
+            
+            # Find all subcategory folders
+            subcategory_folders = []
+            for item in os.listdir(category_folder):
+                item_path = os.path.join(category_folder, item)
+                if os.path.isdir(item_path) and not item.startswith('.'):
+                    subcategory_folders.append(item_path)
+            
+            if not subcategory_folders:
+                # Try direct processing if no subcategories
+                video_files = self.find_video_files(category_folder)
+                if not video_files:
+                    self.logger.warning(f"No video files or subcategories found in {category_name}")
+                    return
+                
+                # Process the category folder directly as if it were a subcategory
+                self.download_subcategory_videos(category_folder)
+                return
+            
+            # Process each subcategory
+            for subcategory_folder in subcategory_folders:
+                self.download_subcategory_videos(subcategory_folder)
+            
+            self.logger.info(f"Category {category_name} processing completed")
             
         except Exception as e:
             self.logger.error(f"Error processing category {category_folder}: {e}")
@@ -316,8 +346,9 @@ def main():
     
     parser = argparse.ArgumentParser(description='Download Higgsfield AI videos')
     parser.add_argument('--category', help='Download specific category only')
+    parser.add_argument('--subcategory', help='Download specific subcategory only (requires --category)')
     parser.add_argument('--stats', action='store_true', help='Show download statistics')
-    parser.add_argument('--interactive', action='store_true', help='Interactive mode for category selection')
+    parser.add_argument('-i', '--interactive', action='store_true', help='Interactive mode for category selection')
     
     args = parser.parse_args()
     
@@ -352,13 +383,67 @@ def main():
             elif 1 <= choice <= len(categories):
                 selected_category = categories[choice - 1]
                 category_name = os.path.basename(selected_category)
-                success = downloader.download_category_videos(selected_category)
+                
+                # Get subcategories for the selected category
+                subcategory_folders = []
+                for item in os.listdir(selected_category):
+                    item_path = os.path.join(selected_category, item)
+                    if os.path.isdir(item_path) and not item.startswith('.'):
+                        subcategory_folders.append(item_path)
+                
+                if not subcategory_folders:
+                    print(f"❌ No subcategories found in {category_name}")
+                    return
+                
+                print(f"\n🎬 Available subcategories in {category_name}:")
+                print("  0. All subcategories (process consecutively)")
+                for i, subcat_path in enumerate(subcategory_folders, 1):
+                    print(f"  {i}. {os.path.basename(subcat_path)}")
+                
+                # Get subcategory choice
+                try:
+                    subchoice = int(input(f"\nSelect subcategory (0-{len(subcategory_folders)}): ").strip())
+                    if subchoice == 0:
+                        # Process all subcategories in this category
+                        print(f"🔄 Processing all subcategories in {category_name}...")
+                        success = downloader.download_category_videos(selected_category)
+                    elif 1 <= subchoice <= len(subcategory_folders):
+                        selected_subcat = subcategory_folders[subchoice - 1]
+                        subcat_name = os.path.basename(selected_subcat)
+                        
+                        # Download videos for the selected subcategory
+                        print(f"🎯 Selected: {subcat_name} from {category_name}")
+                        success = downloader.download_subcategory_videos(selected_subcat)
+                    else:
+                        print("❌ Invalid subcategory selection")
+                        return
+                except ValueError:
+                    print("❌ Please enter a valid number")
+                    return
             else:
                 print("❌ Invalid category selection")
                 return
         except ValueError:
             print("❌ Please enter a valid number")
             return
+    elif args.category and args.subcategory:
+        # Handle specific category and subcategory
+        category_path = None
+        for folder in downloader.get_category_folders():
+            if os.path.basename(folder) == args.category:
+                category_path = folder
+                break
+        
+        if not category_path:
+            logger.error(f"❌ Category '{args.category}' not found")
+            return
+            
+        subcategory_path = os.path.join(category_path, args.subcategory)
+        if not os.path.isdir(subcategory_path):
+            logger.error(f"❌ Subcategory '{args.subcategory}' not found in '{args.category}'")
+            return
+            
+        success = downloader.download_subcategory_videos(subcategory_path)
     elif args.category:
         success = downloader.download_specific_category(args.category)
     else:

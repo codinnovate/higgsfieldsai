@@ -1,14 +1,20 @@
 [
   {
     "video_url": "https://static.higgsfield.ai/955babde-f854-458c-b5d0-f72ff522e1e1.mp4",
-    "prompt": "A stylish man in a sparkling, sequin-covered outfit performs a moonwalk in a neon-lit dance room, filled with red and blue lights. He glides smoothly across the glossy floor under futuristic LED ceiling panels, exuding confidence and rhythm as he moves."
+    "prompt": "A stylish man in a sparkling, sequin-covered outfit performs a moonwalk in a neon-lit dance room, filled with red and blue lights. He glides smoothly across the glossy floor under futuristic LED ceiling panels, exuding confidence and rhythm as he moves.",
+    "local_file_path": "/Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Moonwalk Left/videos/955babde-f854-458c-b5d0-f72ff522e1e1.mp4",
+    "filename": "955babde-f854-458c-b5d0-f72ff522e1e1.mp4"
   },
   {
     "video_url": "https://static.higgsfield.ai/98a8773b-77dc-4d4f-9a90-2ca3c3e3aa32.mp4",
-    "prompt": "A confident older man in a light grey suit and striped tie is dancing the moonwalk to the left in a luxurious office building hallway with golden elevator doors and marble floors. He moves with smooth precision and a joyful expression, creating a contrast between his playful movement and the opulent corporate surroundings. Cinematic lighting reflects off the glossy floor."
+    "prompt": "A confident older man in a light grey suit and striped tie is dancing the moonwalk to the left in a luxurious office building hallway with golden elevator doors and marble floors. He moves with smooth precision and a joyful expression, creating a contrast between his playful movement and the opulent corporate surroundings. Cinematic lighting reflects off the glossy floor.",
+    "local_file_path": "/Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Moonwalk Left/videos/98a8773b-77dc-4d4f-9a90-2ca3c3e3aa32.mp4",
+    "filename": "98a8773b-77dc-4d4f-9a90-2ca3c3e3aa32.mp4"
   },
   {
     "video_url": "https://static.higgsfield.ai/a7275ea7-c881-4a7b-8e90-b599a41a6d86.mp4",
-    "prompt": "A stylish man in a dark suit and sunglasses is dancing the moonwalk to the left down a neon-lit street in Chinatown at night, with glowing red lanterns hanging overhead and blue neon lights surrounding him. His movement is smooth and rhythmic, creating a cinematic contrast between his slick moves and the vibrant, saturated environment."
+    "prompt": "A stylish man in a dark suit and sunglasses is dancing the moonwalk to the left down a neon-lit street in Chinatown at night, with glowing red lanterns hanging overhead and blue neon lights surrounding him. His movement is smooth and rhythmic, creating a cinematic contrast between his slick moves and the vibrant, saturated environment.",
+    "local_file_path": "/Users/samueladeyemi/Documents/projects/higgsfieldAi/Action Movements/Moonwalk Left/videos/a7275ea7-c881-4a7b-8e90-b599a41a6d86.mp4",
+    "filename": "a7275ea7-c881-4a7b-8e90-b599a41a6d86.mp4"
   }
 ]
